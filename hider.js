@@ -16,8 +16,8 @@
 // Please fill these out with the values from your
 // actual game.  DON'T FORGET TO FILL OUT CLIENT_ID
 // IN hider.html!
-var APP_ID = '460509579524';
-var LEADERBOARD_ID = 'CgkIhJKKxLMNEAIQKw';
+var APP_ID = 'changed';
+var LEADERBOARD_ID = 'changed';
 
 // How many async loads have happened?
 var UNITS_TO_LOAD = 3;
